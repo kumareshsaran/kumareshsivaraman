@@ -12,7 +12,7 @@ public class Index {
 		for(i=0;i<a;i++)
 		{
 			if(i==num[i]){
-				System.out.println(num[i]);
+				System.out.println("the number "+i+"index is"num[i]);
 			}
 		}
 	}
